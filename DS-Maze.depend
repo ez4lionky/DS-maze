@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1558370941 source:g:\大三下\datastructure\ds-maze\main.c
+	"Maze.h"
+
+1558354668 
+
+1558371039 g:\大三下\datastructure\ds-maze\maze.h
+	"stack.h"
+
+1558354668 g:\大三下\datastructure\ds-maze\stack.h
+	<stdio.h>
+	<malloc.h>
+	<assert.h>
+	<stdlib.h>
+
+1558371048 source:g:\大三下\datastructure\ds-maze\maze.c
+	"maze.h"
+
+1558354655 source:g:\大三下\datastructure\ds-maze\stack.c
+	"stack.h"
+
+1558354655 source:/home/lionky/Desktop/DataStructure/DS-Maze/stack.c
+	"stack.h"
+
+1558354668 /home/lionky/Desktop/DataStructure/DS-Maze/stack.h
+	<stdio.h>
+	<malloc.h>
+	<assert.h>
+	<stdlib.h>
+
+1558494973 source:/home/lionky/Desktop/DataStructure/DS-Maze/main.c
+	"maze.h"
+
+1558452090 /home/lionky/Desktop/DataStructure/DS-Maze/maze.h
+	"stack.h"
+
+1558495002 source:/home/lionky/Desktop/DataStructure/DS-Maze/maze.c
+	"maze.h"
+
+1558619194 source:d:\qqfiles\1060546285\filerecv\ds-maze\main.c
+	"maze.h"
+
+1558452090 d:\qqfiles\1060546285\filerecv\ds-maze\maze.h
+	"stack.h"
+
+1558354668 d:\qqfiles\1060546285\filerecv\ds-maze\stack.h
+	<stdio.h>
+	<malloc.h>
+	<assert.h>
+	<stdlib.h>
+
+1558495958 source:d:\qqfiles\1060546285\filerecv\ds-maze\maze.c
+	"maze.h"
+
+1558354655 source:d:\qqfiles\1060546285\filerecv\ds-maze\stack.c
+	"stack.h"
+
